@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP M300-MV10345M1
+D Headers & Wire Housings M300, 3MM, 3P 1R, ML VRT HDR PCTL W/JSCRW
+K
+F https://www.mouser.com/datasheet/2/181/M300-MV10345M1-1133577.pdf
+$ENDCMP
+#
+#End Doc Library

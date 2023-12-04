@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model M300-MV10345M1
+#/724157/378616/2.47/3/4/Connector
+DEF M300-MV10345M1 J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "M300-MV10345M1" 650 200 50 H V L CNN
+F2 "M300MV10345M1" 650 100 50 H I L CNN
+F3 "https://www.mouser.com/datasheet/2/181/M300-MV10345M1-1133577.pdf" 650 0 50 H I L CNN
+F4 "Headers & Wire Housings M300, 3MM, 3P 1R, ML VRT HDR PCTL W/JSCRW" 650 -100 50 H I L CNN "Description"
+F5 "7" 650 -200 50 H I L CNN "Height"
+F6 "Harwin" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "M300-MV10345M1" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 650 -500 50 H I L CNN "Arrow Part Number"
+F9 "" 650 -600 50 H I L CNN "Arrow Price/Stock"
+F10 "855-M300-MV10345M1" 650 -700 50 H I L CNN "Mouser Part Number"
+F11 "https://www.mouser.co.uk/ProductDetail/Harwin/M300-MV10345M1?qs=QkPn6D1Vh3i6f7zpJZvlHw%3D%3D" 650 -800 50 H I L CNN "Mouser Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

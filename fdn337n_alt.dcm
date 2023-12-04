@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDN337N_ALT
+D -2.4A Id, -20V Vds, P-Channel MOSFET
+K P-Channel MOSFET
+F D:\Documentos\2 Datasheets\1 Semicondutores\Fairchild\Discrete\FDN304P.pdf
+$ENDCMP
+#
+$CMP FND304P_copy_copy_copy_copy_copy
+D -2.4A Id, -20V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
+$ENDCMP
+#
+#End Doc Library

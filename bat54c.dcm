@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAT54C
+D dual schottky barrier diode, common cathode
+K schottky diode common cathode
+F http://www.diodes.com/_files/datasheets/ds11005.pdf
+$ENDCMP
+#
+#End Doc Library

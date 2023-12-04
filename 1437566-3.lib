@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# 1437566-3
+#
+DEF 1437566-3 SW 0 40 Y N 1 L N
+F0 "SW" -150 100 50 H V L BNN
+F1 "1437566-3" -150 -150 50 H V L BNN
+F2 "SW_1437566-3" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "1437566-3" 0 0 50 H I L BNN "Comment"
+F5 "50 mA" 0 0 50 H I L BNN "Contact_Current_Rating"
+F6 "Single Pole - Single Throw" 0 0 50 H I L BNN "Configuration_Pole-Throw"
+DRAW
+P 2 0 0 10 -100 0 100 65 N
+C -100 0 11 0 0 0 N
+C 100 0 11 0 0 0 N
+X ~ 1 -200 0 100 R 40 40 0 0 P 
+X ~ 2 200 0 100 L 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
